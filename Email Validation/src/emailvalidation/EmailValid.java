@@ -43,7 +43,7 @@ public class EmailValid {
 				return true;
 			} 			
 		}
-		System.out.println("\\n\\nUnfortunately, your email has not been identified.");
+		System.out.println("\n\nUnfortunately, your email has not been identified.");
 		return false;		
 	}	
 	
